@@ -1,0 +1,3 @@
+DROP SCHEMA billing;
+DROP SCHEMA idm;
+DROP SCHEMA movies;
